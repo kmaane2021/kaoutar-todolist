@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kaoutar-todolist/static/css/main.40c10ff6.chunk.css",
+    "main.js": "/kaoutar-todolist/static/js/main.068552ce.chunk.js",
+    "main.js.map": "/kaoutar-todolist/static/js/main.068552ce.chunk.js.map",
+    "runtime-main.js": "/kaoutar-todolist/static/js/runtime-main.8aa30e46.js",
+    "runtime-main.js.map": "/kaoutar-todolist/static/js/runtime-main.8aa30e46.js.map",
+    "static/js/2.e6b7563b.chunk.js": "/kaoutar-todolist/static/js/2.e6b7563b.chunk.js",
+    "static/js/2.e6b7563b.chunk.js.map": "/kaoutar-todolist/static/js/2.e6b7563b.chunk.js.map",
+    "index.html": "/kaoutar-todolist/index.html",
+    "precache-manifest.2c087598ea6e016b6d414f474ab1e85c.js": "/kaoutar-todolist/precache-manifest.2c087598ea6e016b6d414f474ab1e85c.js",
+    "service-worker.js": "/kaoutar-todolist/service-worker.js",
+    "static/css/main.40c10ff6.chunk.css.map": "/kaoutar-todolist/static/css/main.40c10ff6.chunk.css.map",
+    "static/js/2.e6b7563b.chunk.js.LICENSE.txt": "/kaoutar-todolist/static/js/2.e6b7563b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/kaoutar-todolist/static/media/background.4f646371.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8aa30e46.js",
+    "static/js/2.e6b7563b.chunk.js",
+    "static/css/main.40c10ff6.chunk.css",
+    "static/js/main.068552ce.chunk.js"
+  ]
+}
